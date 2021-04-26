@@ -14,7 +14,7 @@ documentacion para ver todas las peticiones del api de spring boot prueba de wol
 
 ### Para  la base de datos y su funcionamiento es  necesratio tener instalado un version de Mysql 5.7.24 
 
-- datos de acceso los encontrada en el archivo properties 
+- datos de acceso los encontrara en el archivo properties 
 
 
 
